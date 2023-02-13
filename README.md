@@ -3,6 +3,13 @@ E-commerce platform using the MERN stack (refactoring using to use Redux)
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
+![GitHub last commit](https://img.shields.io/github/last-commit/LRicciardo/MOD22-C-EStore?style=plastic)
+
+
+<a target="_blank" href="https://github.com/LRiccardo" rel="nofollow"><img src="https://img.shields.io/badge/GitHub--blue?style=social&logo=GitHub" alt="Github" data-canonical-src="https://img.shields.io/badge/GitHub--blue?style=social&logo=GitHub" style="max-width:100%;"></a> 
+<a target="_blank" href="https://www.linkedin.com/in/lRicciardo/" rel="nofollow"><img src="https://camo.githubusercontent.com/0f56393c2fe76a2cd803ead7e5508f916eb5f1e62358226112e98f7e933301d7/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d626c75653f7374796c653d666c6174266c6f676f3d6c696e6b6564696e266c6162656c436f6c6f723d626c7565" alt="Linked-In" data-canonical-src="https://img.shields.io/badge/LinkedIn-blue?style=flat&amp;logo=linkedin&amp;labelColor=blue" style="max-width:100%;"></a>
+ 
+
 ## Description
 
 Refactor e-commerce platform to use Redux for global state management
