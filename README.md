@@ -14,7 +14,7 @@ E-commerce platform using the MERN stack (refactoring using to use Redux)
 
 Refactor e-commerce platform to use Redux for global state management.
 
-[<center><font color="yellow"> > Heroku Deployed App Link < </font></center>](https://img.shields.io/badge/License-MIT-yellow.svg)
+[<center><font color="yellow"> > Heroku Deployed App Link < </font></center>](https://mod22-c-estore.herokuapp.com/)
 
 [<center><font color="yellow"> > GitHub Repo Link < </font></center>](https://github.com/LRicciardo/MOD22-C-EStore)
 
