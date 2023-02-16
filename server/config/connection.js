@@ -5,9 +5,9 @@ mongoose.connect(process.env.MONGODB_URI ||
 // "mongodb+srv://LRicciardo:MongoPass123@cluster0.nrfy0d9.mongodb.net/mernshopping?retryWrites=true&w=majority",
 {
   useNewUrlParser: true,
-  useUnifiedTopology: true,
-  useCreateIndex: true,
-  useFindAndModify: false
+  useUnifiedTopology: true
+  // useCreateIndex: true,
+  // useFindAndModify: false
 }
 );
 
